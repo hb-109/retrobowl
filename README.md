@@ -19,7 +19,9 @@ On iPad, play in landscape. In Safari, use **Share → Add to Home Screen** to l
 | Timeout | TIMEOUT button | T |
 | Pause | II button | Esc |
 
-Difficulty is in **Settings**: Easy, Medium, Hard, Extreme or Dynamic (the default, which gets harder as you win).
+Difficulty and game speed are in **Settings**: Easy, Medium, Hard, Extreme or Dynamic (the default, which gets harder as you win), and Slow, Normal or Fast plays.
+
+A new franchise starts with a handful of real players and an opening rookie draft. Stand-ins with base stats play every position you haven't filled; your own players wear a yellow star on the field.
 
 Your franchise saves in the browser you play in, in three save slots. **Settings → Back up save** gives you a code to move it to another device.
 
