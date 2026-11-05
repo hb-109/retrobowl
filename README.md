@@ -14,13 +14,13 @@ On iPad, play in landscape. In Safari, use **Share → Add to Home Screen** to l
 | Pass | Drag back like a slingshot, then let go | Hold the left button, drag back, release |
 | Lob ↔ bullet | Tap a second finger while aiming | Right-click or B while aiming |
 | Hand off | Tap the circled running back | H |
-| Steer the runner | Drag slowly in any direction | Hold the arrow keys |
-| Juke / dive / hesitate | Flick up or down / forward / back | Tap ↑ ↓ / → / ← |
-| Truck | Hold a finger down | Hold Shift |
+| Juke / dive / hesitate | Swipe up or down / forward / back | ↑ ↓ / → / ← |
 | Kicks | Tap for power, tap again for direction | Space, Space |
-| Playbook | PLAYS button before the snap | P |
+| Timeout | TIMEOUT button | T |
 | Pause | II button | Esc |
+
+Difficulty is in **Settings**: Easy, Medium, Hard, Extreme or Dynamic (the default, which gets harder as you win).
 
 Your franchise saves in the browser you play in, in three save slots. **Settings → Back up save** gives you a code to move it to another device.
 
-Touchback is an original game with original art, teams and names. It is not affiliated with any professional league or other game publisher. 
+Touchback is an original game with original art and players; clubs use city names only. It is not affiliated with any professional league or other game publisher.
