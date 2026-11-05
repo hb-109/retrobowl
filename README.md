@@ -23,4 +23,4 @@ On iPad, play in landscape. In Safari, use **Share → Add to Home Screen** to l
 
 Your franchise saves in the browser you play in, in three save slots. **Settings → Back up save** gives you a code to move it to another device.
 
-Touchback is an original game with original art, teams and names. It is not affiliated with any professional league or other game publisher.
+Touchback is an original game with original art, teams and names. It is not affiliated with any professional league or other game publisher. 
