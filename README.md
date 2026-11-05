@@ -2,7 +2,7 @@
 
 A pixel-art football game for iPad, phones and computers. The whole game is the single file `index.html`. It needs no install and works offline.
 
-**Play:** https://hb-109.github.io/retro_bowl/
+**Play:** https://hb-109.github.io/retrobowl/
 
 On iPad, play in landscape. In Safari, use **Share → Add to Home Screen** to launch it full screen.
 
